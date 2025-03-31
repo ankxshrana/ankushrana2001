@@ -23,4 +23,4 @@ I thrive at the intersection of **Electronics, Computer Science, Data Science, a
 🌟 **Let's Connect & Build!**  
 I’m always open to collaborations on **research, AI-driven analytics, or creative tech projects**. Let’s innovate together!  
 
-📩 **ankushranarajput100@gmail.com** | 🌍 **[LinkedIn](https://www.linkedin.com/in/ankushrana2001/)** | 🏆 **[Research Publications](#)**  
+📩 **ankushranarajput100@gmail.com** | 🌍 **[LinkedIn](https://www.linkedin.com/in/ankushrana2001/)** | 🏆 **[Research Publications](https://www.researchgate.net/profile/Ankush-Rana-9?ev=hdr_xprf)**  
