@@ -5,7 +5,7 @@
 I thrive at the intersection of **Electronics, Computer Science, Data Science, and AI**, blending hardware innovation with software intelligence. From **3D-printed optical choppers** to **AI-driven insights**, my work revolves around solving real-world challenges with cutting-edge tech.  
 
 🔬 **Research Publications**  
-1. Rana, A., Bhatnagar, S., Garg, S., & Garg, A. (2023). A pedagogical approach to wavelength division multiplexing measurements using 3D printing and Arduino. Physics Education, 58(6), 065008.
+1. Rana, A., Bhatnagar, S., Garg, S., & Garg, A. (2023). [A pedagogical approach to wavelength division multiplexing measurements using 3D printing and Arduino](https://iopscience.iop.org/article/10.1088/1361-6552/acf109). Physics Education, 58(6), 065008.
 2. Rana, A., Bhatnagar, S., Garg, S., & Garg, A. (2023). Wide frequency range optical chopper system: an affordable solution using 3D printing and Arduino Uno. Physics Education, 58(6), 065009.
 3. Rathi, M., Shukla, R.K., Tiwari, P., Kushwaha, G., Gupta, P., Rana, A. and Garg, A., 2024. Innovative approach of teaching ray-optics in the classroom. Physics Education, 59(5), p.055019.
 4. Garg, S., Jha, A., Rana, A., Singh, A., & Garg, A. (2024). Intelligent system for face mask detection and alert. Aurobindo College Journal of Research and Studies, Special Edition, 35. ISSN 2455-5401.
