@@ -1,8 +1,8 @@
 # 👋 Hello, I'm Ankush Rana!  
 
-🚀 **Software Enthusiast Turned Data Explorer | Researcher | Tech Innovator**  
+🚀 **Aspiring Software Professional | Lifelong Learner**
 
-I thrive at the intersection of Electronics, Computer Science, Data Science, and AI, blending hardware innovation with software intelligence. From 3D-printed optical choppers to AI-driven insights, my work revolves around solving real-world challenges with cutting-edge tech.  
+With a strong foundation in electronics and a growing passion for the software industry, I’m continuously upskilling in areas such as data science, AI, and full-stack development. I enjoy working on innovative projects that merge hardware and software—like building 3D-printed optical systems and experimenting with AI-driven solutions. A hands-on research approach, strategic problem-solving, and a solid sense of project and team management have shaped my journey. I'm driven to explore, learn, and contribute to meaningful tech solutions that make a difference.
 
 💡 **What I'm Exploring Now:**  
 - Full Stack Web Development 🌐  
