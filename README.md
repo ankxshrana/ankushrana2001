@@ -27,4 +27,4 @@ With a strong foundation in electronics and a growing passion for the software i
 🌟 **Let's Connect & Build!**  
 I’m always open to collaborations on **research, AI-driven analytics, or creative tech projects**. Let’s innovate together!  
 
-📩 **ankxsh.rana@gmail.com** | 🌍 **[LinkedIn](https://www.linkedin.com/in/ankxsh.rana/)**  
+📩 **ankxsh.rana@gmail.com** | 🌍 **[LinkedIn](https://www.linkedin.com/in/ankxshrana/)**  
